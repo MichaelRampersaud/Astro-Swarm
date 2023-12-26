@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap');
+
+body {
+  text-align: center;
+  height: 100vh;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 3rem;
+  letter-spacing: .2rem;
+}
+
+h2 {
+  font-family: 'Orbitron', sans-serif;
+}
+
+canvas {
+  border: 1px solid white;
+}
+
